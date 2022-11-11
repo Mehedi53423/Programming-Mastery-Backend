@@ -1,26 +1,32 @@
 [
     {
-        "id": "1",
-        "name": "C"
+      "id": "1",
+      "name": "C",
+      "logo": "https://i.ibb.co/KX5YzZ2/c.png"
     },
     {
-        "id": "2",
-        "name": "C++"
+      "id": "2",
+      "name": "C++",
+      "logo": "https://i.ibb.co/k3bV32j/c.png"
     },
     {
-        "id": "3",
-        "name": "C#"
+      "id": "3",
+      "name": "C#",
+      "logo": "https://i.ibb.co/gSFtZ6s/c.png"
     },
     {
-        "id": "4",
-        "name": "Java"
+      "id": "4",
+      "name": "Java",
+      "logo": "https://i.ibb.co/hgkKXjg/java.png"
     },
     {
-        "id": "5",
-        "name": "Python"
+      "id": "5",
+      "name": "Python",
+      "logo": "https://i.ibb.co/bLLKK8d/python.png"
     },
     {
-        "id": "6",
-        "name": "JavaScript"
+      "id": "6",
+      "name": "JavaScript",
+      "logo": "https://i.ibb.co/ZhrZk7X/js.png"
     }
 ]

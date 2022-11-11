@@ -1,0 +1,346 @@
+[
+  {
+    "id": "1",
+    "name": "C",
+    "logo": "https://i.ibb.co/KX5YzZ2/c.png",
+    "details": [
+      {"name": "Section 1 - Getting Started", "steps": ["C Program Structure", "Data Representation", "Operators and Expressions", "Casts", "Statements and Blocks", "Control Flow Constructs"]},
+      {
+        "name": "Section 2 - Program Structure",
+        "steps": [
+          "Function Syntax",
+          "Parameter Passing",
+          "Call by Address",
+          "Call by Value"
+        ]
+      },
+      {
+        "name": "Section 3 - Arrays and Pointers",
+        "steps": [
+          "Single Dimensional Arrays",
+          "Multi-Dimensional Arrays",
+          "Initializing Arrays",
+          "Pointers, Operators, Expressions",
+          "Pointers and Arrays"
+        ]
+      },
+      {
+        "name": "Section 4 - Structured Types",
+        "steps": [
+          "Structure Declarations",
+          "Structure Members",
+          "Arrays of Structures",
+          "Initializing Structures"
+        ]
+      },
+      {
+        "name": "Section 5 - C Library",
+        "steps": [
+          "Standard C Library",
+          "Buffered File I/O",
+          "Dynamic Storage Allocation"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "C++",
+    "logo": "https://i.ibb.co/k3bV32j/c.png",
+    "details": [
+      {
+        "name": "Section 1 - Getting Started ",
+        "steps": [
+          "Object-Oriented Fundamentals",
+          "C++ Basics",
+          "C++ Functions",
+          "Structures and References"
+        ]
+      },
+      {
+        "name": "Section 2 - Classes and Objects",
+        "steps": [
+          "Encapsulation",
+          "Constructors and Destructors"
+        ]
+      },
+      {
+        "name": "Section 3 - Overloading",
+        "steps": [
+          "Overloading Functions",
+          "Overloading Operators"
+        ]
+      },
+      {
+        "name": "Section 4 - Polymorphic Programming",
+        "steps": [
+          "Inheritance",
+          "Virtual Functions",
+          "Dynamic Binding"
+        ]
+      },
+      {
+        "name": "Section 5 - Code Reuse in C++",
+        "steps": [
+          "Containment",
+          "Private Inheritance"
+        ]
+      },
+      {
+        "name": "Section 6 - Designing with C++",
+        "steps": ["Templates", "Exceptions"]
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "C#",
+    "logo": "https://i.ibb.co/gSFtZ6s/c.png",
+    "details": [
+      {
+        "name": "Section 1 - Getting Started",
+        "steps": [
+          "C# Fundamentals",
+          "Method Parameters"
+        ]
+      },
+      {
+        "name": "Section 2 - Classes and Objects",
+        "steps": [
+          "Class Design",
+          "Inheritance",
+          "Classes and Structs"
+        ]
+      },
+      {
+        "name": "Section 3 - Working with Objects",
+        "steps": [
+          "Exception Handling",
+          "Interfaces",
+          "Resource Management"
+        ]
+      },
+      {
+        "name": "Section 4 - Delegates and Events",
+        "steps": [
+          "Delegates",
+          "Events",
+          "Callbacks",
+          "Standard Events"
+        ]
+      },
+      {
+        "name": "Section 5 - Windows Programming in C#",
+        "steps": [
+          "Windows Forms",
+          "Controls and Components",
+          "Window Applications"
+        ]
+      },
+      {
+        "name": "Section 6 - Threads",
+        "steps": [
+          "The Thread Class",
+          "Starting Threads, Thread Priorities",
+          "Timer Threads",
+          "Interlocked, Monitor, and lock()"
+        ]
+      },
+      {
+        "name": "Section 7 - Generics and Collections",
+        "steps": [
+          "Generics",
+          "Collections"
+        ]
+      },
+      {
+        "name": "Section 8 - File I/O and Streams",
+        "steps": [
+          "File and Directory Management",
+          "Reading and Writing Text Files",
+          "Reading and Writing Binary Files"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Java",
+    "logo": "https://i.ibb.co/hgkKXjg/java.png",
+    "details": [
+      {
+        "name": "Section 1 - Getting Started",
+        "steps": [
+          "Java Basics",
+          "Java Objects"
+        ]
+      },
+      {
+        "name": "Section 2 - Classes and Objects",
+        "steps": [
+          "Class Design",
+          "Inheritance",
+          "Abstract Classes and Methods"
+        ]
+      },
+      {
+        "name": "Section 3 - Working with Classes",
+        "steps": [
+          "Using instanceof",
+          "Interfaces",
+          "Exception Handling"
+        ]
+      },
+      {
+        "name": "Section 4 - User Interfaces",
+        "steps": [
+          "Window Applications",
+          "Java Swing APIs"
+        ]
+      },
+      {
+        "name": "Section 5 - Generics and Collections",
+        "steps": [
+          "Why Use Generics?",
+          "Collections"
+        ]
+      },
+      {
+        "name": "Section 6 - Threads",
+        "steps": [
+          "Thread States",
+          "Extending the Thread class",
+          "Timer Thread",
+          "Implementing the Runnable interface"
+        ]
+      },
+      {
+        "name": "Section 7 - File I/O",
+        "steps": [
+          "Input and Output Streams",
+          "Binary and Text Files",
+          "Files and Directory Methods"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Python",
+    "logo": "https://i.ibb.co/bLLKK8d/python.png",
+    "details": [
+      {
+        "name": "Section 1 - Getting Started",
+        "steps": [
+          "Running Python Programs",
+          "Python Scripts",
+          "Data Types",
+          "Numbers and Variables",
+          "Operators and Expressions",
+          "Strings"
+        ]
+      },
+      {
+        "name": "Section 2 - Working with Data",
+        "steps": [
+          "Lists",
+          "Indexing and Slicing",
+          "Tuples",
+          "Dictionaries",
+          "References and Copies"
+        ]
+      },
+      {
+        "name": "Section 3 - Program Structure",
+        "steps": [
+          "Assignment Statements",
+          "Blocks and Syntax Rules",
+          "Expression Statements",
+          "Looping, Decisions",
+          "Control Flow"
+        ]
+      },
+      {
+        "name": "Section 4 - Functions",
+        "steps": [
+          "Defining Functions",
+          "Scope Rules",
+          "Closures",
+          "Passing Arguments"
+        ]
+      },
+      {
+        "name": "Section 5 - Modules",
+        "steps": [
+          "Imports and Attributes",
+          "Creating Modules",
+          "Reloading",
+          "Module Packages"
+        ]
+      },
+      {
+        "name": "Section 6 - Classes and Objects",
+        "steps": [
+          "Classes, Instances, Methods",
+          "Static and Class Methods",
+          "Invoking Methods",
+          "Method Objects"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "JavaScript",
+    "logo": "https://i.ibb.co/ZhrZk7X/js.png",
+    "details": [
+      {
+        "name": "Section 1 - Getting Started",
+        "steps": [
+          "JavaScript Program Structure",
+          "Data Representation",
+          "Operators and Expressions",
+          "Casts",
+          "Statements and Blocks"
+        ]
+      },
+      {
+        "name": "Section 2 - Program Structure",
+        "steps": [
+          "Function Syntax",
+          "Parameter Passing",
+          "Call by Address",
+          "Call by Value"
+        ]
+      },
+      {
+        "name": "Section 3 - Arrays and Pointers",
+        "steps": [
+          "Single Dimensional Arrays",
+          "Multi-Dimensional Arrays",
+          "Initializing Arrays",
+          "Pointers, Operators, Expressions",
+          "Pointers and Arrays"
+        ]
+      },
+      {
+        "name": "Section 4 - Structured Types",
+        "steps": [
+          "Structure Declarations",
+          "Structure Members",
+          "Arrays of Structures",
+          "Initializing Structures"
+        ]
+      },
+      {
+        "name": "Section 5 - JavaScript events",
+        "steps": [
+          "Calling JavaScript from HTML: Events",
+          "Concepts: parameters and the this keyword",
+          "Using parameters in a function",
+          "The this keyword"
+        ]
+      }
+    ]
+  }
+]
